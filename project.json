@@ -1,0 +1,28 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d","extensions"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/Game/Map.js",
+        "src/Game/Tower/Tower.js",
+        "src/Game/Bullet/Bullet.js",
+        "src/Game/Enemy/Enemy.js",
+        "src/Score.js",
+        "src/FireExplosion.js",
+        "src/Game/Abtractsmap.js",
+        "src/Game/Map1_1.js",
+        "src/Game/Map2_2.js",
+        "src/Game/Enemy/AirCraft.js"
+    ]
+}

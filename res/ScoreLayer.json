@@ -1,0 +1,262 @@
+{
+  "ID": "2a73f318-dfa5-4ab7-acad-4c396d5898a6",
+  "Version": "3.10.0.0",
+  "Name": "ScoreLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FontSize": 20,
+            "LabelText": "ScoreEEEEE",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.92,
+              "Y": 386.9429
+            },
+            "Scale": {
+              "ScaleX": 1.0994,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0791,
+              "Y": 0.6046
+            },
+            "PreSize": {
+              "X": 0.1219,
+              "Y": 0.0359
+            },
+            "LeftMargin": 17.42,
+            "RightMargin": 825.58,
+            "TopMargin": 241.5571,
+            "BottomMargin": 375.4429,
+            "Tag": 4,
+            "ActionTag": 670091230,
+            "Size": {
+              "X": 117.0,
+              "Y": 23.0
+            },
+            "Name": "Scorelb",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Live : 00",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 50.0,
+              "Y": 337.9095
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0521,
+              "Y": 0.528
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.0359
+            },
+            "LeftMargin": 12.5,
+            "RightMargin": 872.5,
+            "TopMargin": 290.5905,
+            "BottomMargin": 326.4095,
+            "Tag": 8,
+            "ActionTag": -5887078,
+            "Size": {
+              "X": 75.0,
+              "Y": 23.0
+            },
+            "Name": "Livelb",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Money : 000",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 65.0,
+              "Y": 430.57
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0677,
+              "Y": 0.6728
+            },
+            "PreSize": {
+              "X": 0.1146,
+              "Y": 0.0359
+            },
+            "LeftMargin": 10.0,
+            "RightMargin": 840.0,
+            "TopMargin": 197.93,
+            "BottomMargin": 419.07,
+            "Tag": 13,
+            "ActionTag": -1146856483,
+            "Size": {
+              "X": 110.0,
+              "Y": 23.0
+            },
+            "Name": "Moneylb",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "Button_49.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Button_48.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Button_46.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 66,
+            "Scale9Height": 76,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 864.0,
+              "Y": 563.2
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.9,
+              "Y": 0.88
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.08,
+              "Y": 0.12
+            },
+            "LeftMargin": 825.6,
+            "RightMargin": 57.6,
+            "TopMargin": 38.4,
+            "BottomMargin": 524.8,
+            "Tag": 20,
+            "ActionTag": 1170728201,
+            "Size": {
+              "X": 76.8,
+              "Y": 76.8
+            },
+            "Name": "buttonSetting",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "ScoreLayer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Button_46.png",
+        "Button_48.png",
+        "Button_49.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
